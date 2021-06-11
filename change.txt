@@ -1,3 +1,3 @@
- git is a version control system
-hello word
+ git are a version control system
+hello the word
 happy
